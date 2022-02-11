@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Abdelrahman
 #### I am a computer engineering student
+<div align="center">
 
+![Profile views](https://gpvc.arturio.dev/Abd-ELrahmanHamza)  [![Repos Badge](https://badges.pufler.dev/repos/Abd-ELrahmanHamza)](https://badges.pufler.dev)
+
+</div>
 - 🌱 I’m currently learning Computer engineering at Cairo university 
 
 
@@ -14,4 +18,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abd-ELrahmanHamza)  
 
-![Profile views](https://gpvc.arturio.dev/Abd-ELrahmanHamza)  
+
