@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A Computer engineering strudent</h3>
+<h3 align="center">A Computer engineering student</h3>
 
 ![alt text](code.gif)
 
